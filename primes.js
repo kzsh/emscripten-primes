@@ -1,6 +1,6 @@
 var current = 3;
 
-while(current < 10000) {
+while(current < 100000) {
   var test = 2;
   while(test <= current) {
     if (test == current) {
