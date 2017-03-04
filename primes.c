@@ -3,7 +3,7 @@
 
 int main() {
   int current = 3;
-  while(current < 10000) {
+  while(current < 100000) {
     int test = 2;
     while(test <= current) {
       if (test == current) {
